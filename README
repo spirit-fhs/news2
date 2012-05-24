@@ -1,0 +1,4 @@
+Rewrite of news in Play
+=======================
+
+This file will be packaged with your application, when using `play dist`.
